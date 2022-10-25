@@ -1,1 +1,2 @@
 # NewtonSchool-Training
+#Claritech Academy 
